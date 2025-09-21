@@ -1,0 +1,4 @@
+name: ServerPlugin
+version: '1.0-SNAPSHOT'
+main: net.xenon.serverPlugin.ServerPlugin
+api-version: '1.21'
